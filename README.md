@@ -11,4 +11,5 @@ I'll keep a list of every project with a brief sumary of what it can do an etc.
 
 ## Projects!
 - Quiz game
+
 It's a interactive quiz game. The idea is that the user will be able to select between themes and even difficulty of the questions. For now it will be on the terminal, but the goal is to make an interface to make it more interactive. 
