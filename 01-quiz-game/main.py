@@ -1,11 +1,7 @@
-# OUTDATED
-
-
-"""
-This is a quiz game made from scratch.
-The major objective here is to practice and improve it.
-I'll start with the basics.
-"""
+from techquestions import easy_tech
+from geopoliticsquestions import easy_geopolitics
+from musicandartquestions import easy_music_and_art
+from cinemaquestions import easy_cinema
 
 # Welcoming the user
 print(
@@ -42,20 +38,24 @@ print()
 if theme == 1:
     print("You choose 1")
     print("Let's talk about MUSIC AND ART!")
+    easy_music_and_art()
 
 elif theme == 2:
     print("You choose 2")
     print("Let's talk about CINEMA AND THEATER!")
+    easy_cinema()
 
 
 elif theme == 3:
     print("You choose 3")
     print("Let's talk about GEOPOLITICS AND RELATED!")
+    easy_geopolitics()
 
 
 elif theme == 4:
     print("You choose 4")
     print("Let's talk about TECH!")
+    easy_tech()
 
 
 else:
