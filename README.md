@@ -17,3 +17,7 @@ It's a interactive quiz game. The idea is that the user will be able to select b
 - Guess the number
 
 It's kind of another interactive game as well... The user set a range for the computer to generate a random number, and then the user guess what number the computer generated. For now its as simple as that, but also will have more advanced funcionalities in the future such as counting the tries and sort of a scoreboard type of thing.
+
+- Password Manager
+
+Tis is an app that you can insert your data such as login and password and storage those data into a separated file that, in the future, will be encripted. The app creates a password.txt file into the root and write all the info that you put it into. It's interactive and you can also view the info on the terminal as using the application. 
